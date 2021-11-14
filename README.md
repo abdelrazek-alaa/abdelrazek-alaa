@@ -16,3 +16,7 @@ related to web development and a serious ambition and goals to be achived.
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/abdelrazek-alaa)](https://github.com/abdelrazek-alaa)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/abdelrazek-alaa)](https://github.com/abdelrazek-alaa)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/abdelrazek-alaa)](https://github.com/abdelrazek-alaa)
+
+## Pinned Projects
+the pinned projects are the projects that i've built during studying at Udacity web development nanodegree programs
+take a look at them if you like. 👇
